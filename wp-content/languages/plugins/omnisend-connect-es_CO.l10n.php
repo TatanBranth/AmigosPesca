@@ -1,0 +1,2 @@
+<?php
+return ['x-generator'=>'GlotPress/4.0.1','translation-revision-date'=>'2024-08-17 23:05:14+0000','plural-forms'=>'nplurals=2; plural=n != 1;','project-id-version'=>'Plugins - Email Marketing for WooCommerce by Omnisend - Stable (latest release)','language'=>'es_CO','messages'=>['Settings'=>'Ajustes','Every 5 minutes'=>'Cada 5 minutos','Every 2 minutes'=>'Cada 2 minutos','Omnisend'=>'Omnisend','https://www.omnisend.com'=>'https://www.omnisend.com','Omnisend for WooCommerce'=>'Omnisend para WooCommerce']];
